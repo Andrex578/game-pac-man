@@ -31,7 +31,7 @@ O objetivo deste projeto é recriar a experiência clássica do Pac-Man diretame
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **Linguagem**: [Ex: HTML5, CSS3, JavaScript / Python (Pygame) / C++]
+- **Linguagem**: [Ex: HTML5, CSS3, / Python (Pygame) ]
 - **Renderização**: [Ex: HTML5 Canvas / Biblioteca X]
 - **Ferramentas**: Git, GitHub, VS Code
 
