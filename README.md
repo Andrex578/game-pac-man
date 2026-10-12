@@ -1,4 +1,4 @@
- # 🟡 Pac-Man Game
+# 🟡 Pac-Man Game
 
 Uma recriação do clássico jogo **Pac-Man**, desenvolvida para demonstrar conceitos de lógica de programação, manipulação de interface/canvas e inteligência lógica para movimentação dos fantasmas.
 
@@ -48,8 +48,8 @@ Certifique-se de ter instalado em sua máquina:
    ```bash
    git clone [https://github.com/Andrex578/game-pac-man.git](https://github.com/Andrex578/game-pac-man.git)
 2.
-cd game-pac-man
+   ```.cd game-pac-man
 
 3.
-python main.py
+     ```.python main.py
 
