@@ -37,19 +37,4 @@ O objetivo deste projeto é recriar a experiência clássica do Pac-Man diretame
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-### Pré-requisitos
-Certifique-se de ter instalado em sua máquina:
-- [Ex: Navegador Web atualizado / Python 3.x / Node.js]
-
-### Passo a Passo
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/Andrex578/game-pac-man.git](https://github.com/Andrex578/game-pac-man.git)
-2.
-   ```.cd game-pac-man
-
-3.
-     ```.python main.py
 
